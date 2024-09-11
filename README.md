@@ -1,4 +1,4 @@
-# Pharmaceutical Companies Big Data Manipulation Project
+# Pharmaceutical Companies Big Data Manipulations
 
 ## Project Overview
 
